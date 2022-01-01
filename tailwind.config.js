@@ -38,7 +38,7 @@ module.exports = {
         701: '701px',
       },
       backgroundColor: {
-        poco: '#E24141',
+        poco: '#94DACD',
         june: '#547CE4',
         park: '#73BC6D',
         roid: '#04C09E',
